@@ -1,0 +1,12 @@
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\bin\Release\Lab1.exe.config
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\bin\Release\Lab1.exe
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\bin\Release\Lab1.pdb
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.csproj.AssemblyReference.cache
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.AboutForm.resources
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.MainForm.resources
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.Properties.Resources.resources
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.csproj.GenerateResource.cache
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.csproj.CoreCompileInputs.cache
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.exe
+D:\НИУ МЭИ\МЭИ 4 курс\Криптографические методы\Lab1\obj\Release\Lab1.pdb
